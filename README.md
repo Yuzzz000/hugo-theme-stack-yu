@@ -4,7 +4,7 @@
 
 <img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
 
-Card-style Hugo theme designed for bloggers.
+Card-style Hugo theme designed for bloggers.想改但最后也没改所以就先这样嘛吧本宝遇到困难就放弃！
 
 ## Quickstart
 
